@@ -18,3 +18,4 @@ Difference Contribution: An additional factor is considered by calculating 0.001
 Games Played Contribution: Loyalty points are further influenced by 0.2 times the total number of games played by players.
 
 Throughout the case study, several questions were posed to analyze and interpret the loyalty point formula.
+The Python file containing all the analysis and the report file have been attached herewith for reference.
